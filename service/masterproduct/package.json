@@ -1,0 +1,24 @@
+{
+  "name": "Test-kanggo-theoalqadri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theo123426/Test-kanggo-theoalqadri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theo123426/Test-kanggo-theoalqadri/issues"
+  },
+  "homepage": "https://github.com/theo123426/Test-kanggo-theoalqadri#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1"
+  }
+}
